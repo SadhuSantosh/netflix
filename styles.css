@@ -1,11 +1,13 @@
 @import url("https://fonts.googleapis.com/css2?family=Lexend+Deca&display=swap");
 body{
+
   background: url("https://wallpaperaccess.com/full/1089112.jpg"),rgb(0, 0, 0) ;
   background-blend-mode:luminosity;
   background-repeat:no-repeat;
-  background-size:cover;
+  background-size:contain;
    font-family: "Lexend Deca", sans-serif;
- 
+   color:white;
+   background-color: black;
   
 }
 header{
@@ -70,3 +72,50 @@ input::placeholder{
   overflow:hidden;
  
 }
+.below{
+    margin-top: 100px;
+    color:white;
+    background-color: black;
+}
+.imageclass1{
+  height: 300px;  
+  background-image: url('https://www.plex.tv/wp-content/uploads/2018/03/hero-movie-tv.jpg');
+  background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    overflow: hidden;
+    border-radius: 10px;
+}
+.imageclass2{
+    height: 300px;  
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0YumS8GsrxrvlznYgdUZc73pRfYl64Kr8PQ&usqp=CAU');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  .imageclass3{
+      padding:30px;
+    height: 300px;  
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMH6g_lYxnG_szFXBrpERwQevTRYCeFA7avw&usqp=CAU');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  .col1{
+      padding:50px;
+      text-align: center;
+  }
+  .row{
+      margin-bottom: 40px;
+  }
+  
+  .faq{
+      text-align: center;  }
+  .faqs{
+      color:white;
+  }
+  h4{
+      color:white;
+      text-align: center;
+  }
+  
