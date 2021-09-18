@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Lexend+Deca&display=swap");
 body{
 
-  background: url("https://wallpaperaccess.com/full/1089112.jpg"),rgb(0, 0, 0) ;
+  background: url("https://st1.bgr.in/wp-content/uploads/2018/07/Netflix-India.jpg"),rgb(0, 0, 0) ;
   background-blend-mode:luminosity;
   background-repeat:no-repeat;
   background-size:contain;
@@ -79,7 +79,7 @@ input::placeholder{
 }
 .imageclass1{
   height: 300px;  
-  background-image: url('https://www.plex.tv/wp-content/uploads/2018/03/hero-movie-tv.jpg');
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBpxVoMxXiEokeaHFVS16Svzoaj4wcGR-kpA&usqp=CAU');
   background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -88,7 +88,7 @@ input::placeholder{
 }
 .imageclass2{
     height: 300px;  
-    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0YumS8GsrxrvlznYgdUZc73pRfYl64Kr8PQ&usqp=CAU');
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRftoA2H42TChFv_ipZKdnj0f95EAusnu-w1Q&usqp=CAU');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -96,7 +96,7 @@ input::placeholder{
   .imageclass3{
       padding:30px;
     height: 300px;  
-    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMH6g_lYxnG_szFXBrpERwQevTRYCeFA7avw&usqp=CAU');
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVE9r_qbNUxPotqn3TGnR8bdeBQTP9RYBMhQ&usqp=CAU');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
