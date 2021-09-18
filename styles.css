@@ -1,21 +1,28 @@
 @import url("https://fonts.googleapis.com/css2?family=Lexend+Deca&display=swap");
 body{
-  background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQziSDZrC5yzNLAhHwLdcQJyKIv1eeud5HeJu5ej3G9-y7wX_ccXPBiAHvmT4Jmc0iNE4&usqp=CAU"),black ;
-  background-blend-mode: luminosity;
+  background: url("https://wallpaperaccess.com/full/1089112.jpg"),rgb(0, 0, 0) ;
+  background-blend-mode:luminosity;
   background-repeat:no-repeat;
   background-size:cover;
    font-family: "Lexend Deca", sans-serif;
+ 
   
 }
 header{
   display:flex;
   align-items:center;
   gap:1rem;
+  flex-wrap: wrap;
  
 }
 .language{
   margin-left:auto;
   
+}
+.rightheader{
+    margin-left: auto;
+    display: flex;
+    gap:2rem;
 }
 .signin{
   color:white;
@@ -27,13 +34,19 @@ header{
 }
 .content{
   color:white;
+  backdrop-filter: brightness(50%);
+  width:80%;
+  margin:auto;
+  text-align:center;
+  margin-top: 40px;
+  padding:20px;
 }
 input,button{
   border:0Px;
 }
 input{
-  height:40px;
-  width:60%px;
+  height:30px;
+  width:60%;
   background-color:lightgrey;
   margin-left:10px;
 }
@@ -50,15 +63,10 @@ input::placeholder{
   font-weight:bold;
 }
 .label{
-  width:50%;
+  width:60%;
   display:flex;
   margin:auto;
   background-color:lightgrey;
   overflow:hidden;
  
-}
-.content{
-  width:80%;
-  margin:auto;
-  text-align:center;
 }
