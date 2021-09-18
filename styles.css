@@ -17,6 +17,9 @@ header{
   flex-wrap: wrap;
  
 }
+.title{
+  margin:10px;
+}
 .language{
   margin-left:auto;
   
@@ -25,6 +28,7 @@ header{
     margin-left: auto;
     display: flex;
     gap:2rem;
+    margin-right: 10px;
 }
 .signin{
   color:white;
